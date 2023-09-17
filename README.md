@@ -21,6 +21,6 @@ K-Nearest Neighbors is a simple yet powerful classification and regression algor
 
 To test the knn class script you can directly use it as,
 
-`$ bash eval.sh /pathtodatafolder 1.py  `
+`$ bash test.sh /pathtodatafolder 1.py  `
 
 This will return you an evaluation matrix containing accuracy, F1 score , precision and recall.
