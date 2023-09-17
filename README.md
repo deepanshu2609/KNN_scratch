@@ -1,5 +1,5 @@
 # KNN_scratch
-This repo implements the KNN from scratch. 
+This repository contains a Python implementation of the k-Nearest Neighbors (k-NN) algorithm from scratch. k-NN is a simple yet powerful machine learning algorithm used for classification and regression tasks. This implementation demonstrates how the k-NN algorithm works, step-by-step, without relying on external libraries like scikit-learn. 
 
 ## Prerequisites
 
