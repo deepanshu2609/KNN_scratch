@@ -1,4 +1,5 @@
 # KNN_scratch
+This repo implements the KNN from scratch. 
 
 ## Prerequisites
 
